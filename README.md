@@ -9,6 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1 
-* Student ID: Not-Vietnamese
-
+* Student Name: Hoàng Minh Chí 
+* Student ID: BA12-030
